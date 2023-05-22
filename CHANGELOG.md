@@ -1,6 +1,7 @@
 # Changelog
 
 ## unreleased
+- added the `timezone` argument to the `format_timestamp` vrl function.
 
 ## `0.3.0` (2023-05-05)
 - fixed a type definition bug for assignments where the right-hand side of the assignment expression resolved to the `never` type
